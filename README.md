@@ -1,7 +1,3 @@
-# Roblox Version
-
-Monitoring and tracking Roblox client versions across different platforms and channels.
-
 ## Data Sources
 
 This project fetches version information from the following Roblox API endpoints:
