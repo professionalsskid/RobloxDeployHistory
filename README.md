@@ -3,8 +3,8 @@
 This project fetches version information from the following Roblox API endpoints:
 
 ### Deploy History
-- https://setup.rbxcdn.com/DeployHistory.txt       -- Windows
-- https://setup.rbxcdn.com/Mac/DeployHistory.txt   -- Mac
+- https://setup.rbxcdn.com/DeployHistory.txt
+- https://setup.rbxcdn.com/Mac/DeployHistory.txt
 
 ### Client Versions - LIVE Channel
 - https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/LIVE
