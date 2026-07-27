@@ -7,7 +7,7 @@ This project fetches version information from the following Roblox API endpoints
 - Mac Deploy History: `https://setup.rbxcdn.com/Mac/DeployHistory.txt`
 
 ### Client Versions - LIVE Channel
-- Windows Player (LIVE): `https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/LIVE`
+- https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/LIVE
 - Windows Studio 64 (LIVE): `https://clientsettings.roblox.com/v2/client-version/WindowsStudio64/channel/LIVE`
 - Mac Player (LIVE): `https://clientsettings.roblox.com/v2/client-version/MacPlayer/channel/LIVE`
 - Mac Studio (LIVE): `https://clientsettings.roblox.com/v2/client-version/MacStudio/channel/LIVE`
